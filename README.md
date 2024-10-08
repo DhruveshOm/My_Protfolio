@@ -26,21 +26,22 @@ PROJECTS:
 -----------------------------------------------------------------------------------------------------------
 Project 1: [Doctor's Appointment Scheduling Website]
 
-Description:  The Doctor Appointment Scheduling Website is a user-friendly platform designed to streamline the process of booking medical appointments.
+-Description:  The Doctor Appointment Scheduling Website is a user-friendly platform designed to streamline the process of booking medical appointments.
 Patients can easily search for healthcare providers, view their availability, and schedule appointments at their convenience, all from a single interface.
-Technologies Used: [HTML,CSS,JS]
+-Technologies Used: [HTML,CSS,JS]
 -----------------------------------------------------------------------------------------------------------
 
 Project 2: [Food resource]
 
-Description: The Food Resource Website is a comprehensive platform dedicated to promoting food security and healthy eating. 
+-Description: The Food Resource Website is a comprehensive platform dedicated to promoting food security and healthy eating. 
 It serves as a valuable hub for individuals and families seeking information about nutritious food options, meal planning, and local resources.
-Technologies Used: [HTML,CSS,JS]
+-Technologies Used: [HTML,CSS,JS]
 -----------------------------------------------------------------------------------------------------------
 
 Project 3: [Snake Game]
-Description: [made a basic snake game.]
-Technologies Used: [C++]
+
+-Description: [made a basic snake game.]
+-Technologies Used: [C++]
 -----------------------------------------------------------------------------------------------------------
 
 Contact
